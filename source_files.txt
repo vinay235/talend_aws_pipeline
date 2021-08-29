@@ -1,0 +1,10 @@
+DimCurrency.csv
+DimDate.csv
+DimPromotion.csv
+DimCustomer.csv
+DimGeography.csv
+DimProduct.csv
+DimProductCategory.csv
+DimProductSubcategory.csv
+FactInternetSales.csv
+FactInternetSalesReason.csv

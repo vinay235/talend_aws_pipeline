@@ -1,0 +1,9 @@
+aws_access_key;<access_key>
+aws_secret_key;<secret_key>
+redshift_host;<host>
+redshift_port;<port>
+redshift_dbname;dev
+redshift_dbuser;awsuser
+redshift_dbpwd;<db_pwd>
+redshift_schema;public
+source_files_list;C:\source_files.txt
